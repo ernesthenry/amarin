@@ -28,3 +28,5 @@ namespace CRUDDemo
         public virtual DbSet<Student> Student { get; set; }
     }
 }
+
+
